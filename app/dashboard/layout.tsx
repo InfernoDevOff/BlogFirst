@@ -3,7 +3,7 @@ import { ReactNode } from "react";
 import Logo from "@/public/logo.svg";
 import Image from "next/image";
 import { DashboardItems } from "../components/dashboard/DashboardItems";
-import { CircleUser, DollarSign, Globe, Home } from "lucide-react";
+import { Book, CircleUser, DollarSign, Globe, Home, Magnet } from "lucide-react";
 import { ThemeToggle } from "../components/dashboard/ThemeToggle";
 import {
   DropdownMenu,
