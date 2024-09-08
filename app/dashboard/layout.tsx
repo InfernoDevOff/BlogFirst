@@ -30,6 +30,16 @@ export const navLinks = [
     href: "/dashboard/pricing",
     icon: DollarSign,
   },
+  {
+    name: "FAQ",
+    href: "/dashboard/faq",
+    icon: Book,
+  },
+  {
+    name: "About us",
+    href: "/dashboard/aboutus",
+    icon: Magnet,
+  },
 ];
 
 export default function DashboardLayout({ children }: { children: ReactNode }) {
